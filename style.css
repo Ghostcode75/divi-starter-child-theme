@@ -1,0 +1,23 @@
+/*
+ Theme Name: Divi Starter Child Theme
+ Theme URI: http://divibay.com/themes/starter
+ Description: A starter child theme for Divi sites
+ Author: 
+ Author URI: http://divibay.com/
+ Template: Divi
+ Version: 1.18.1
+ License: CC0
+ License URI: https://creativecommons.org/publicdomain/zero/1.0/
+*/
+
+/* Removes the line betwean content and sidebar, un-comment it if you want to use it */
+/*
+#main-content .container:before {
+    background-color: transparent;
+}
+*/
+/* Use the round class to make circular images */
+.round img {
+    border-radius: 50%;
+}
+
